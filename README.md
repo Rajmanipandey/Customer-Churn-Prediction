@@ -2,7 +2,7 @@
 
 Predict whether a customer will churn based on their usage data using machine learning.
 
-🌐 [Live Demo]()
+🌐 [Live Demo](https://customer-churn-prediction-vmsl.onrender.com)
 
 ---
 
