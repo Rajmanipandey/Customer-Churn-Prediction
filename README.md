@@ -2,7 +2,7 @@
 
 Predict whether a customer will churn based on their usage data using machine learning.
 
-🌐 [Live Demo](https://customer-churn-prediction-sonali.onrender.com)
+🌐 [Live Demo]()
 
 ---
 
